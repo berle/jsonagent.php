@@ -1,0 +1,15 @@
+{
+    "name": "berle/jsonagent",
+    "description": "Simple Guzzle Frontend for JSON based APIs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anders Nor Berle",
+            "email": "anders@berle.cc"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
