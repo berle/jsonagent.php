@@ -2,6 +2,8 @@
 
 namespace Berle\JsonAgent;
 
+use Berle\Logger\LoggerInterface;
+
 interface JsonAgentInterface
 {
 
