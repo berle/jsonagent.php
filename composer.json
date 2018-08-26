@@ -1,5 +1,6 @@
 {
     "name": "berle/jsonagent",
+    "version": "0.0.1",
     "description": "Simple Guzzle Frontend for JSON based APIs",
     "type": "library",
     "license": "MIT",
