@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "berle/logger": "dev-master",
+        "berle/logger": "0.0.1",
         "guzzlehttp/guzzle": "^6.3"
     },
     "autoload": {
